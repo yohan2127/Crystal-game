@@ -1,6 +1,7 @@
 /* General Elements*/
-body{
-	background-image: url("../images/background.png")
+body {
+    background: url("../images/concrete_seamless.png");
+
 }
 div{
 	background-color: white;
